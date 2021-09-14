@@ -86,7 +86,7 @@ For Deployment, we have used glitch as a paltform.
 1. Clone this repository in your local machine using the following command:
 
     ```git
-    git clone https://github.com/Manavi2000/Walkover_Final_Project.git
+    git clone https://github.com/iamrituraj/walkover-online-quiz.git
     ```
 
 2. Open the cloned repository in `VS Code`.
